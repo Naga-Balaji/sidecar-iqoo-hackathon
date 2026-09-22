@@ -65,7 +65,6 @@ Phone in airplane mode on stage for the whole three-minute pitch, live byte coun
 ## Files in this repo
 
 - `Sidecar_iQOO_Hyderabad.pdf` — the submission deck
-- `Sidecar_iQOO_Hyderabad.pptx` — editable source of the deck
 - `deck.html` — a three-slide interactive walkthrough deck (open in a browser, arrow keys to navigate, `F` for fullscreen)
 
 ## Team
